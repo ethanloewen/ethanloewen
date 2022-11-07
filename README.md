@@ -311,7 +311,7 @@ Here are some ideas to get you started:
 
 # 📈 Statistics:
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-ethanloewen&langs_count=14&hide=yacc,shell&show_icons=true&   locale=en&layout=compact" width="45%" alt="ethanloewen"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanloewen&langs_count=14&hide=yacc,shell&show_icons=true&locale=en&layout=compact" width="45%" alt="ethanloewen"/>
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ethanloewen&show_icons=true&locale=en" width="50%" alt="ethanloewen" />  
   
