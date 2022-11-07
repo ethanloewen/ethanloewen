@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 <br>
 
+# 💻 Technologies & Tools:
+
 <table>  
   <tr>
     <td>Languages</td>
