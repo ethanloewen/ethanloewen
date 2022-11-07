@@ -311,13 +311,11 @@ Here are some ideas to get you started:
 
 # 📈 Statistics:
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanloewen&langs_count=14&hide=yacc,shell&show_icons=true&locale=en&layout=compact" width="45%" alt="ethanloewen"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanloewen&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="45%" alt="ethanloewen"/>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ethanloewen&show_icons=true&locale=en" width="45%" alt="ethanloewen" />  
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ethanloewen&theme=prussian&hide_border=true" width="45%" alt="ethanloewen" />  
   
 </p>
 
 <br>
-
-<!-- ![ethanloewen GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethanloewen&show_icons=true) -->
 
