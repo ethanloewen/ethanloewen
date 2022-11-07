@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<h2>Hey, I'm Ethan, a web developer with a passion for creative front-end solutions </h2>
+
 - 👀 I’m interested in ... Rock Climbing, Esports, and Bossa Nova Guitar
 - 🌱 I’m currently learning ... Three.js and other related 3d modeling software (ex. Blender)
 - 📫 How to reach me ... ethanloewen@gmail.com
