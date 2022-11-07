@@ -306,3 +306,8 @@ Here are some ideas to get you started:
     </td>
   </tr>   
 </table>
+
+<br>
+
+![ethanloewen GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethanloewen&show_icons=true)
+
